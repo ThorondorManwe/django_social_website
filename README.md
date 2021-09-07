@@ -1,0 +1,1 @@
+This is an exercise from the book entitled "Django 3 by Example" by Antonio Melé.
