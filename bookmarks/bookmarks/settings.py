@@ -20,7 +20,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '6z_v#m8lg&^#%_i)rtg6r@f2m=83w8798u83kolt*b(&1juedc'
+SECRET_KEY = '************************************'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -130,6 +130,6 @@ LOGOUT_URL = 'logout'
 # EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'cr7488903@gmail.com'
-EMAIL_HOST_PASSWORD = 'Golemyo123/'
+EMAIL_HOST_PASSWORD = '**************'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
